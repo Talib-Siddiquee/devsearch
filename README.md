@@ -2,10 +2,7 @@
 
 # Features
 
-Share Projects
-
-Message other developers
-
-Rate others work
-
-Search other developers
+Share Projects\n
+Message other developers\n
+Rate others work\n
+Search other developers\n
