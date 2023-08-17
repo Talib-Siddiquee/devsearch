@@ -16,7 +16,10 @@
 * Building an API with Django REST Framework (DRF)
 * Deployment
 
-#Tech Stack
+# Tech Stack
 * Django
 * Postgres
 * Django REST Framework
+
+# Home Page
+![Screenshot (10)](https://github.com/Talib-Siddiquee/devsearch/assets/87259972/0d8e5e1d-3294-4113-bf6e-b17c47bd75f5)
